@@ -1,1 +1,2 @@
-# m3-wk4-d1-homework
+# How to run the less file?
+lessc less/racing.less css/style.css
